@@ -2,5 +2,6 @@
 ## Ingredients
 * avocado 1
 * lime 2
-* salt
+* salt 
 ## Instructions
+adding garlic
