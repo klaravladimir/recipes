@@ -4,7 +4,6 @@
 * lime 2
 * salt 
 ## Instructions
-adding garlic
-peel the avocados
- #adding garlic
-*put one avocado in the bowl
+* adding garlic
+* peel the avocados
+* put one avocado in the bowl
