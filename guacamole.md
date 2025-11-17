@@ -6,3 +6,5 @@
 ## Instructions
 adding garlic
 peel the avocados
+ #adding garlic
+*put one avocado in the bowl
