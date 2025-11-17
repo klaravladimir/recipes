@@ -5,3 +5,4 @@
 * salt 
 ## Instructions
 adding garlic
+peel the avocados
