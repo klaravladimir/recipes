@@ -4,4 +4,5 @@
 * lime 2
 * salt 
 ## Instructions
-adding garlic
+ #adding garlic
+*put one avocado in the bowl
